@@ -1,1 +1,1 @@
-Sample file for initial commit
+Sample file for initial git commit
