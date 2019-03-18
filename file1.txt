@@ -1,2 +1,2 @@
-Sample file 1 modified by another user test
 modified by user1
+Sample file 1 modified by another user again
