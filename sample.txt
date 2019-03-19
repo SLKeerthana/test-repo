@@ -1,4 +1,2 @@
 Sample file for initial git commit
 Modified
-
-Add by dev
